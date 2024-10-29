@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int days;
     cout << "\nEnter the Number of Days: ";
-    cin >> days;
+    cin >> days; 
 
     if (days <= 5) {
         cout << "\nThe Fine is 50 Paise";

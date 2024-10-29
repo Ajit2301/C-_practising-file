@@ -14,7 +14,6 @@ public:
         cout<<"\n The bike  running";
     }
 };
-
 int main()
 {
     bike *o=new bullet ;
